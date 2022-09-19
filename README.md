@@ -4,7 +4,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
   <div style="flex: 1;">
     1
   </div>
