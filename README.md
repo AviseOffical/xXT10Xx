@@ -6,7 +6,9 @@
 
 <div align="center">
   <div align="left">
-    1
+    <a target="_blank" rel="noreferrer">
+      1
+    </a>
   </div>
   <div align="left">
     2
