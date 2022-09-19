@@ -4,16 +4,15 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div style="display: flex; flex-direction: column;">
-  <div flex="1">
+<div align="center">
+  <div align="left">
   </div>
-    <div style="flex: 1;">
-    2
+  <div align="left">
   </div>
-    <div style="flex: 1;">
+  <div style="flex: 1;">
     3
   </div>
-    <div style="flex: 1;">
+  <div style="flex: 1;">
     4
   </div>
 </div>
