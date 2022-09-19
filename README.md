@@ -5,8 +5,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div style="display: flex; flex-direction: column;">
-  <div style="flex: 1;">
-    1
+  <div flex="1">
   </div>
     <div style="flex: 1;">
     2
