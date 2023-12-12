@@ -135,4 +135,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-photon&" alt="just-photon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just-photon&show_icons=true&locale=en" alt="just-photon" /></p>
