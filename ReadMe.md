@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Photon</h1>
 <h3 align="center">A passionate all-round developer from Norway</h3>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just-photon&show_icons=true&locale=en" alt="just-photon" /></p>
+
 <h3 align="center">Languages:</h3>
 <p align="center">
   <!-- C -->
@@ -128,7 +130,3 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just-photon&show_icons=true&locale=en" alt="just-photon" /></p>
