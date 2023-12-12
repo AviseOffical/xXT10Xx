@@ -104,8 +104,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb
 
 
-<a href="https://www.hackerrank.com/aryankarumuri1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryankarumuri1" height="30" width="40"/>
-</a>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-photon&" alt="just-photon" /></p>
