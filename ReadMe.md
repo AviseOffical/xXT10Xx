@@ -131,4 +131,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just-photon&show_icons=true&locale=en" alt="just-photon" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just-photon&show_icons=true&locale=en" alt="just-photon" /></p>
