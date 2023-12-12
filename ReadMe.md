@@ -9,7 +9,7 @@
 <p align="left">
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="c" width="40" height="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="c" width="40" height="40"/>
   </a>
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
