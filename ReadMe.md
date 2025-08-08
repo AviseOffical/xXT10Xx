@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Photon</h1>
-<h3 align="center">A passionate all-round developer from Norway</h3>
+<h3 align="center">A passionate full-stack developer from Norway</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just-photon&show_icons=true&locale=en" alt="just-photon" /></p>
 
