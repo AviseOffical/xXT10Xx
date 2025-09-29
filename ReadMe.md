@@ -5,6 +5,10 @@
 
 <h3 align="center">Languages:</h3>
 <p align="center">
+  <!-- Rust -->
+  <a href="https://rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+  </a>
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
