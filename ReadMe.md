@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm T10 (TIO)</h1>
 <h3 align="center">A passionate full-stack developer from Norway</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xXT10Xx&show_icons=true&locale=en" alt="just-photon" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AviseOffical&show_icons=true&locale=en" alt="Av!se" /></p>
 
 <h3 align="center">Languages:</h3>
 <p align="center">
