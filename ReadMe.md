@@ -57,14 +57,6 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <!-- Azure -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -93,10 +85,6 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
-  <!-- Jenkins -->
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
   <!-- MariaDB -->
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
@@ -108,22 +96,6 @@
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- NGINX -->
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- Oracle -->
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <!-- SQLite -->
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
